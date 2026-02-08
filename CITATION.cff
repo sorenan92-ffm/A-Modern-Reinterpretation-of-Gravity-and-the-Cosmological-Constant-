@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Your University/Institution"
+title: "3D Gravity Simulator with FFM Modifications"
+version: 1.0.0
+doi: 10.5281/zenodo.xxxxxxx
+date-released: 2024-02-08
+url: "https://github.com/yourusername/gravity-simulator-3d"
+license: MIT
+repository-code: "https://github.com/yourusername/gravity-simulator-3d"
+keywords:
+  - "gravity-simulation"
+  - "quantum-gravity"
+  - "ffm-model"
+  - "astrophysics"
+  - "scientific-software"
+abstract: "A Python package for 3D gravitational simulations with Fundamental Field Model modifications, including τ-field dynamics and information preservation mechanisms."
