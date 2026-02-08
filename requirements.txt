@@ -1,0 +1,14 @@
+numpy>=1.21.0
+matplotlib>=3.5.0
+scipy>=1.8.0
+h5py>=3.6.0
+pandas>=1.4.0
+tqdm>=4.64.0
+pyyaml>=6.0
+colorama>=0.4.6
+
+# Optional dependencies
+plotly>=5.10.0
+ipywidgets>=8.0.0
+ipython>=8.0.0
+jupyter>=1.0.0
