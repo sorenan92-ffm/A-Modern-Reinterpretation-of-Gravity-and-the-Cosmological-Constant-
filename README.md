@@ -4,7 +4,8 @@ This paper presents an updated framework that reinterprets the gravitational con
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)
+![DOI]
+https://doi.org/10.5281/zenodo.18525530
 
 **A sophisticated 3D gravitational simulator implementing FFM (Fundamental Field Model) modifications to Newtonian gravity.**
 
